@@ -1,0 +1,17 @@
+
+p{
+    color: blue;
+    /*background: black;*/
+}
+/*
+body{
+    background: burlywood;
+}
+*/
+
+div{
+width: 800px;
+height: 400px;
+background: red;
+max-width: 500px;
+}
